@@ -17,8 +17,9 @@ const Navbar = () => {
           Shubham Paswan
         </motion.span>
         <div className="social">
+          
           <a href="#">
-            <img src="/facebook.png" alt="" />
+          <ToggleButton/>
           </a>
           <a href="#">
             <img src="/instagram.png" alt="" />
